@@ -9,7 +9,7 @@ GET
 ```
 
 **- URL:**
-<context-root>/rest/calc/sum
+/context-root/rest/calc/sum
 
 **- URL Params (Required):**
 ```sh
@@ -45,7 +45,7 @@ POST
 ```
 
 **- URL:**
-<context-root>/rest/calc/subtract
+/context-root/rest/calc/subtract
 
 **- Form Params (Required):**
 ```sh
